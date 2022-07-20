@@ -24,7 +24,7 @@
   
   ## Projetos em destaque:
 
-  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myMusicApp&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myMusicApp)
 
 
 <br></br>
@@ -70,6 +70,13 @@
 
 ## Currently learning:
 [![My Skills](https://skills.thijs.gg/icons?i=docker,mysql,typescript,nodejs)](https://skills.thijs.gg)
+
+
+<br></br>
+
+## Featured projects:
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myMusicApp&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myMusicApp)
 
 
 <br></br>
