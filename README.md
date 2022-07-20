@@ -38,7 +38,7 @@
   
   <br></br>
   
-  ## 👨🏽‍🦲 &nbsp;Redes Sociais
+  ## 👨🏽‍🦲 &nbsp;Contatos
 
 <a href="https://www.linkedin.com/in/kelderpassos/" target="_blank"><img src="https://img.shields.io/badge/-kelderpassos-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:kelder.passos@gmail.com" >
