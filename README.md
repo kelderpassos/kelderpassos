@@ -4,11 +4,16 @@
   # Olá Mundo <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" />, eu sou Kelder Passos. Sejam muito bem vindos!
 
   ## Sobre mim
-  - 👨🏻‍💻 Desenvolvedor Frontend
-  - 👨🏻‍🏫 Professor
+  - 👨🏻‍💻 Desenvolvedor Full stack
+  - 👨🏻‍🏫 Professor de História e Inglês
   - 💍 Homem casado
   - 🐱 Pai de três gatos
   - ⚡ Curiosidade: Sou um ótimo cozinheiro  👨🏻‍🍳
+  
+  <br></br>
+  
+  ## Projetos já implementados
+  https://my-music-app-mu.vercel.app/
   
   <br></br>
 
@@ -55,11 +60,16 @@
 # Hello world <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" />, I'm Kelder Passos. Be very welcome!
 
 ## About me
-- 👨🏻‍💻 Frontend developer
-- 👨🏻‍🏫 Teacher
+- 👨🏻‍💻 Full stack developer
+- 👨🏻‍🏫 History and English teacher
 - 💍 Married man
 - 🐱 Father of three cats
 - ⚡ Fun fact: I'm a great cook  👨🏻‍🍳
+
+<br></br>
+
+## Projects already deployed
+https://my-music-app-mu.vercel.app/
 
 <br></br>
 
