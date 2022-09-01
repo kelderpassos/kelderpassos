@@ -35,7 +35,7 @@
   ## Projetos em destaque:
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myMusicApp&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myMusicApp)
-
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=store-manager&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/store-manager)
 
 <br></br>
 
