@@ -1,5 +1,5 @@
 <details>
-  <summary>Versão em português</summary>
+  <summary>:brazil: Versão em português</summary>
   
   # Olá Mundo <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" />, eu sou Kelder Passos. Sejam muito bem vindos!
 
@@ -70,7 +70,7 @@
 
 ---
 <details open>
-  <summary>English version</summary>
+  <summary>:us: English version</summary>
 
 
 # Hello world <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" />, I'm Kelder Passos. Be very welcome!
