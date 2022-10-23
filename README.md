@@ -37,6 +37,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myMusicApp&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myMusicApp)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=store-manager&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/store-manager)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myRecipe-app&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myRecipe-app)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=soccer-championship-api&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/soccer-championship-api)
 
 <br></br>
 
@@ -112,6 +113,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myMusicApp&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myMusicApp)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=store-manager&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/store-manager)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myRecipe-app&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myRecipe-app)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=soccer-championship-api&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/soccer-championship-api)
 
 <br></br>
 
