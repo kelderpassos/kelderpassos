@@ -30,15 +30,15 @@
   ## Aprendendo no momento:  
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   <br></br>
   
   ## Projetos em destaque:
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myMusicApp&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myMusicApp)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=store-manager&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/store-manager)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=soccer-championship-api&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/soccer-championship-api)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myRecipe-app&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myRecipe-app)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=vehicle-dealership&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/soccer-championship-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=vehicle-dealership&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/vehicle-dealership)
 
 <br></br>
 
@@ -107,15 +107,16 @@
 ## Currently learning
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 <br></br>
 
 ## Featured repositories
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myMusicApp&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myMusicApp)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=store-manager&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/store-manager)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=soccer-championship-api&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/soccer-championship-api)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myRecipe-app&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myRecipe-app)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=vehicle-dealership&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/soccer-championship-api)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=vehicle-dealership&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/vehicle-dealership)
 
 <br></br>
 
