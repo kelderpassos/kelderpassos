@@ -13,33 +13,25 @@
   <br></br>
   
   ## Tecnologias com que trabalho:
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Node.Js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.Js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
   <br></br>
 
   ## Aprendendo no momento:  
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
   <br></br>
   
   ## Projetos em destaque:
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myMusicApp&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myMusicApp)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=global-logging-system&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/global-logging-system)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=vehicle-dealership&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/vehicle-dealership)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=soccer-championship-api&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/soccer-championship-api)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myRecipe-app&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myRecipe-app)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=vehicle-dealership&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/vehicle-dealership)
 
 <br></br>
 
@@ -90,18 +82,11 @@
 <br></br>
 
 ## Technologies I work with
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.Js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.Js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
@@ -115,10 +100,10 @@
 
 ## Featured repositories
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myMusicApp&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myMusicApp)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=global-logging-system&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/global-logging-system)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=vehicle-dealership&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/vehicle-dealership)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=soccer-championship-api&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/soccer-championship-api)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myRecipe-app&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myRecipe-app)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=vehicle-dealership&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/vehicle-dealership)
 
 <br></br>
 
