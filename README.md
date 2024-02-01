@@ -4,10 +4,10 @@
   # Olá Mundo <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" />, eu sou Kelder Passos. Sejam muito bem vindos!
 
   ## Sobre mim
-  - 👨🏻‍💻 Desenvolvedor Full stack
+  - 👨🏻‍💻 Desenvolvedor Back-end
   - 👨🏻‍🏫 Professor de História e Inglês
   - 💍 Homem casado
-  - 🐱 Pai de três gatos
+  - 🐱 Pai de um menino e três gatos
   - ⚡ Curiosidade: Sou um ótimo cozinheiro  👨🏻‍🍳
   
   <br></br>
@@ -73,10 +73,10 @@
 
   
 ## About me
-- 👨🏻‍💻 Full stack developer
+- 👨🏻‍💻 Back-end developer
 - 👨🏻‍🏫 History and English teacher
 - 💍 Married man
-- 🐱 Father of three cats
+- 🐱 Father of a boy and three cats
 - ⚡ Fun fact: I'm a great cook  👨🏻‍🍳
 
 <br></br>
