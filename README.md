@@ -95,8 +95,7 @@
 <br></br>
 
 ## Currently learning
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![AWS](https://img.shields.io/badge/aws_developer_associate-%3639F0.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/aws_developer_associate-3A3BF7.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <br></br>
 
 ## Featured repositories
