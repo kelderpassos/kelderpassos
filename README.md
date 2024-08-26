@@ -22,13 +22,14 @@
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
   <br></br>
+  ## Certificações:
+  ![AWS Cloud Pratictioner](https://github.com/kelderpassos/imagens/blob/main/aws-certified-cloud-practitioner.png)
 
   ## Estudando no momento:  
   ![AWS](https://img.shields.io/badge/aws_developer_associate-3A3BF7.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   <br></br>
   
   ## Projetos em destaque:
-
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=global-logging-system&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/global-logging-system)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=vehicle-dealership&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/vehicle-dealership)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=anomaly-search&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/soccer-championship-api)
@@ -92,6 +93,13 @@
 
 
 <br></br>
+
+## Certifications:
+![AWS Cloud Pratictioner](https://github.com/kelderpassos/imagens/blob/main/aws-certified-cloud-practitioner.png)
+![Cisco Introduction to Cybersecurity](https://github.com/kelderpassos/imagens/blob/main/introduction-to-cybersecurity.png)
+![Fortinet Introduction to the Threat Landscape 2.0](https://github.com/kelderpassos/imagens/blob/main/introduction-to-the-threat-landscape-2-0.png)
+
+
 
 ## Currently studying
 ![AWS](https://img.shields.io/badge/aws_developer_associate-3A3BF7.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
