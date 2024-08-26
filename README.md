@@ -24,15 +24,14 @@
   <br></br>
 
   ## Estudando no momento:  
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![AWS](https://img.shields.io/badge/aws_developer_associate-3A3BF7.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   <br></br>
   
   ## Projetos em destaque:
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=global-logging-system&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/global-logging-system)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=vehicle-dealership&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/vehicle-dealership)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=soccer-championship-api&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/soccer-championship-api)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myRecipe-app&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myRecipe-app)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=anomaly-search&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/soccer-championship-api)
 
 <br></br>
 
@@ -74,7 +73,7 @@
 
   
 ## About me
-- 👨🏻‍💻 Back-end developer
+- 👨🏻‍💻 Cybersecurity analyst
 - 👨🏻‍🏫 History and English teacher
 - 💍 Married man
 - 🐱 Father of a boy and three cats
@@ -94,7 +93,7 @@
 
 <br></br>
 
-## Currently learning
+## Currently studying
 ![AWS](https://img.shields.io/badge/aws_developer_associate-3A3BF7.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <br></br>
 
@@ -102,8 +101,8 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=global-logging-system&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/global-logging-system)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=vehicle-dealership&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/vehicle-dealership)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=soccer-championship-api&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/soccer-championship-api)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=myRecipe-app&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/myRecipe-app)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=anomaly-search&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/soccer-championship-api)
+
 
 <br></br>
 
