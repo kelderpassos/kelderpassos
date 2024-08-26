@@ -115,14 +115,18 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<br></br>
 
 ## Certifications:
 ![AWS Cloud Pratictioner](https://github.com/kelderpassos/imagens/blob/main/aws-certified-cloud-practitioner.png)
 ![Cisco Introduction to Cybersecurity](https://github.com/kelderpassos/imagens/blob/main/introduction-to-cybersecurity.png)
 ![Fortinet Introduction to the Threat Landscape](https://github.com/kelderpassos/imagens/blob/main/introduction-to-the-threat-landscape-2-0.png)
 
+<br></br>
+
 ## Currently studying
 ![AWS](https://img.shields.io/badge/aws_developer_associate-3A3BF7.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 <br></br>
 
 ## Featured repositories
