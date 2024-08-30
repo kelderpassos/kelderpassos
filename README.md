@@ -33,9 +33,17 @@
   <br></br>
   
   ## Certificações:
-  ![AWS Cloud Pratictioner](https://github.com/kelderpassos/imagens/blob/main/aws-certified-cloud-practitioner.png)
-  ![Cisco Introduction to Cybersecurity](https://github.com/kelderpassos/imagens/blob/main/introduction-to-cybersecurity.png)
-  ![Fortinet Introduction to the Threat Landscape](https://github.com/kelderpassos/imagens/blob/main/introduction-to-the-threat-landscape-2-0.png)
+  <a href="https://www.credly.com/badges/c7ceda40-a120-4ccd-8182-d070e7d2988c/public_url" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/kelderpassos/imagens/blob/main/aws-certified-cloud-practitioner.png"></img>
+  </a>
+
+  <a href="https://www.credly.com/badges/15f4a738-893f-493f-b5bf-2b8f695394b9/public_url" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/kelderpassos/imagens/blob/main/introduction-to-cybersecurity.png"></img>
+  </a>
+
+  <a href="https://www.credly.com/badges/b49643f2-c957-445c-b935-e9cda2cfca56/public_url" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/kelderpassos/imagens/blob/main/introduction-to-the-threat-landscape-2-0.png"></img>
+  </a>
   
   <br></br>
 
@@ -118,9 +126,17 @@
 <br></br>
 
 ## Certifications:
-![AWS Cloud Pratictioner](https://github.com/kelderpassos/imagens/blob/main/aws-certified-cloud-practitioner.png)
-![Cisco Introduction to Cybersecurity](https://github.com/kelderpassos/imagens/blob/main/introduction-to-cybersecurity.png)
-![Fortinet Introduction to the Threat Landscape](https://github.com/kelderpassos/imagens/blob/main/introduction-to-the-threat-landscape-2-0.png)
+  <a href="https://www.credly.com/badges/c7ceda40-a120-4ccd-8182-d070e7d2988c/public_url" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/kelderpassos/imagens/blob/main/aws-certified-cloud-practitioner.png"></img>
+  </a>
+
+  <a href="https://www.credly.com/badges/15f4a738-893f-493f-b5bf-2b8f695394b9/public_url" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/kelderpassos/imagens/blob/main/introduction-to-cybersecurity.png"></img>
+  </a>
+
+  <a href="https://www.credly.com/badges/b49643f2-c957-445c-b935-e9cda2cfca56/public_url" target="_blank" style="text-decoration: none">
+    <img src="https://github.com/kelderpassos/imagens/blob/main/introduction-to-the-threat-landscape-2-0.png"></img>
+  </a>
 
 <br></br>
 
