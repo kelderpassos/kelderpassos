@@ -54,7 +54,7 @@
   
   ## Projetos em destaque:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=aws-scripts&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/aws-scripts)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=anomaly-search&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/terraform-scripts)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=terraform-scripts&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/terraform-scripts)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=global-logging-system&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/global-logging-system)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelderpassos&repo=vehicle-dealership&theme=codeSTACKr&border_color=ffffff)](https://github.com/kelderpassos/vehicle-dealership)
 
