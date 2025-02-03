@@ -48,7 +48,7 @@
   <br></br>
 
   ## Estudando no momento:  
-  ![AWS](https://img.shields.io/badge/aws_developer_associate-3A3BF7.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![AWS](https://img.shields.io/badge/aws_solutions_architect_associate-3A3BF7.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
   <br></br>
   
@@ -142,7 +142,7 @@
 <br></br>
 
 ## Currently studying
-![AWS](https://img.shields.io/badge/aws_developer_associate-3A3BF7.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/aws_solutions_architect_associate-3A3BF7.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <br></br>
 
